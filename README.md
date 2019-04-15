@@ -1,3 +1,5 @@
+this c++ simple class help to work with serial ports.this class work only in linux.
+
 ## Build in release mode
 
 ```
