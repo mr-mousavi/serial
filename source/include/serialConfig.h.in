@@ -1,0 +1,4 @@
+#define serial_VERSION_MAJOR "@serial_VERSION_MAJOR@"
+#define serial_VERSION_MINOR "@serial_VERSION_MINOR@"
+#define serial_VERSION_PATCH "@serial_VERSION_PATCH@"
+
